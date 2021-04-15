@@ -1,2 +1,2 @@
 # Grid-template
-This is a template layout that uses the CSS-GRID.
+This is a Web page layout that uses the CSS-GRID.
